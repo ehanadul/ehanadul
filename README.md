@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazonaws-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Aws-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
 
 
 <!--
