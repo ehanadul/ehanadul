@@ -3,8 +3,9 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
-
-
+<img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 <!--
 **ehanadul/ehanadul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
