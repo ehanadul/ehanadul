@@ -6,6 +6,7 @@
 <img src="https://img.shields.io/badge/Argo-EF7B4D?style=flat&logo=argo&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <!--
 **ehanadul/ehanadul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
