@@ -8,7 +8,9 @@
 <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/k6-7D64FF?style=flat&logo=k6&logoColor=white"/>
 <!--
 **ehanadul/ehanadul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
