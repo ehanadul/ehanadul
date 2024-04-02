@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=Terraform&logoColor=white"/>
 <!--
 **ehanadul/ehanadul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
