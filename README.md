@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=amazonrds&logoColor=white"/>
 <img src="https://img.shields.io/badge/Amazon EKS-FF9900?style=flat&logo=amazoneks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon Route53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white"/>
 <!--
 **ehanadul/ehanadul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
